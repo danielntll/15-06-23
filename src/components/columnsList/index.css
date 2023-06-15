@@ -1,0 +1,8 @@
+.ColumnsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.ColumnsList__column {
+  flex: 32%;
+}

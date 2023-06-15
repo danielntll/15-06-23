@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  padding: 16px;
+}
+.App__content {
+  /* width: 45%; */
+  margin: auto;
+}
+
+.App__inputSection {
+  margin-top: 50px;
+}
+
+.App__toolbarSection {
+  margin-top: 10px;
+}
+.App__todosSection {
+  margin-top: 30px;
+}

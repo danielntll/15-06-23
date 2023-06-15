@@ -1,0 +1,25 @@
+.Column {
+  padding: 16px;
+  background-color: rgb(41, 41, 41);
+  border-radius: var(--border-radius);
+  display: flex;
+  flex-direction: column;
+}
+
+.Column__header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+.Column__header p {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.Column__body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
